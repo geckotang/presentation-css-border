@@ -58,7 +58,7 @@
 
 border: 0;とborder: none;は違います。
 
-#### border-bottom-width: 0;扱い
+#### border-width: 0;扱い
 
 ```css
 .block {
@@ -66,7 +66,7 @@ border: 0;とborder: none;は違います。
 }
 ```
 
-#### border-bottom-style: none;扱い
+#### border-style: none;扱い
 
 ```css
 .block {
